@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+// import PropTypes from 'prop-types';
+// var PropTypes = require ('prop-types');
 
 function App() {
   return (
